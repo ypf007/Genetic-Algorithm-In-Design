@@ -1,4 +1,4 @@
-# 在online的JupyterNotebook上使用Matplotlib绘出Sigmoid function的曲线
+# 在online的JupyterNotebook上通过求二元函数最大值为例子来详细讲解遗传算法的每一步
 
 ## 打开实验文件
 
