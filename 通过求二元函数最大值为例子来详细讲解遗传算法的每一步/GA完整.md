@@ -11,6 +11,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import cm
 from mpl_toolkits.mplot3d import Axes3D
+%matplotlib qt5
 
 DNA_SIZE = 16  #染色体长度，即基因个数
 POP_SIZE = 200   #种群规模，即有200个染色体
