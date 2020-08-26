@@ -120,3 +120,7 @@ if __name__ == "__main__":
     plt.ioff()
     plot_3d(ax)
 ```
+
+## 参考文献及资料
+1. [**遗传算法与其python实现**](https://blog.csdn.net/WFRainn/article/details/80458246)
+2. [**遗传算法详解 附python代码实现**](https://blog.csdn.net/ha_ha_ha233/article/details/91364937)
